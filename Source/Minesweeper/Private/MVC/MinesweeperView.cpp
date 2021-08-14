@@ -3,7 +3,6 @@
 
 #include "MinesweeperView.h"
 #include "MinesweeperGame.h"
-#include "MinesweeperModel.h"
 #include "Widgets/Layout/SUniformGridPanel.h"
 
 #define LOCTEXT_NAMESPACE "FMinesweeperView"
